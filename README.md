@@ -8,3 +8,6 @@ NILMTK is an open source toolkit for non-intrusive load monitoring.  It contains
 UK-Dale (UK Domestic Appliance-Level Electricity) is a dataset that records the power demand from five houses.   There is low sampling rate as every six seconds and also high sampling rate in 16kHz.  The detail can be found in [Jack Kelly](https://jack-kelly.com/data/) and [UKEDC](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic).
 
 Jack & William published an informative journal, "The The UK-DALE dataset, domestic appliance-level electricity demand and whole-house demand from five UK homes" at 2015.  The details can be reached [here](https://www.nature.com/articles/sdata20157).
+
+# Reference
+- [nilmtk package documentation 0.2](http://nilmtk.github.io/nilmtk/master/nilmtk.html)
