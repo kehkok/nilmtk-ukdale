@@ -16,7 +16,7 @@ Thus, these materials are to assist an apprentice for exploring and deep-diving 
 
 This project is an unofficial  and also not related to core development of NILMTK. However, this is to prepare an easy guideline and setup for an apprentice to learn NILMTK instead.  
 
-## Prerequisite
+## Prerequisites
 
 - NILMTK development environment either in Desktop or Docker
 - [UK-Dale](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic) (UK Domestic Appliance-Level Electricity) is a dataset that records the power demand from five houses.   There is low sampling rate as every six seconds and also high sampling rate in 16kHz.  The dataset in h5 format which requiring for the tutorial may refer to [UK-DALE h5](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017/UK-DALE-FULL-disaggregated).  It need to place into "./Tutorial/Dataset" folder
