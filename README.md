@@ -21,7 +21,7 @@ This project is an unofficial and also not related to core development of NILMTK
 - NILMTK development environment either in Desktop or Docker
 - [UK-Dale](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic) (UK Domestic Appliance-Level Electricity) is a dataset that records the power demand from five houses.   There is low sampling rate as every six seconds and also high sampling rate in 16kHz.  The dataset in h5 format which requiring for the tutorial may refer to [UK-DALE h5](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017/UK-DALE-FULL-disaggregated).  It need to place into "./Tutorial/Dataset" folder
 
-## Discern an appliance load disaggregation problem
+## Discern appliances load disaggregation problem
 
 - **What?** To collect data about how much energy each device in a building or home uses. NILM analytics is the process of analysing this data to learn more about how each appliance uses energy.
 - **Why?** Is important because it helps people understand how they use energy, find ways to save energy, and make the best use of energy. It can also be used by utilities to track and control how much energy is used on a big scale and to learn more about and control the demand on the grid.
