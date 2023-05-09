@@ -14,7 +14,7 @@ Thus, these materials are to assist an apprentice for exploring and deep-diving 
 2. Module 2 consists of NILMTK APIs for executing fundamental disaggregation algorithms Combinatorial Optimisation (CO), Factorial hidden markov models and Hart85.
 3. Module 3 consists of advanced techniques to import custom dataset to NILMTK and executing fundamental disaggregation
 
-This project is an unofficial  and also not related to core development of NILMTK. However, this is to prepare an easy guideline and setup for an apprentice to learn NILMTK instead.  
+This project is an unofficial and also not related to core development of NILMTK. However, this is to prepare an easy guideline and setup for an apprentice to learn NILMTK instead.  
 
 ## Prerequisites
 
