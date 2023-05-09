@@ -5,7 +5,7 @@ NILM (Non-Intrusive Load Monitoring) analytics is the process of using different
 Thus, these materials are to assist an apprentice for exploring and deep-diving practically into NILM analytics.  Below open source systems are adopted:  
 
 - NILMTK is an open source toolkit for non-intrusive load monitoring.  It contains rich set of APIs for exploring energy disaggregation.  The information is well published in [NILMTK github](https://github.com/nilmtk/nilmtk).
-- [UK-Dale](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic)dataset in h5 format. May refer to [UKEDC](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017/UK-DALE-FULL-disaggregated)
+- [UK-Dale](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic) dataset in h5 format. May refer to [UKEDC](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017/UK-DALE-FULL-disaggregated)
 - Python and Jupyter Notebook development environment either on Desktop or Docker.  The simple guideline to preparing a Docker is located at "Docker" folder with **Dockerfile** for building the docker image.
 
 **Tutorial** folder consists of series of ipynb files to guide you through NILMTK.  It has three major modules:
