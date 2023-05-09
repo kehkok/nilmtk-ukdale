@@ -1,7 +1,0 @@
-ipdb
-tables
-coveralls
-coverage
-pyparsing
-tables
-h5py
